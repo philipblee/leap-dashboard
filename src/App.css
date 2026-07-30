@@ -31,3 +31,71 @@
 .app-main {
   padding: 1.5rem;
 }
+
+.table-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.table-controls select {
+  background: #1a1a1a;
+  color: #eee;
+  border: 1px solid #444;
+  padding: 0.35rem 0.5rem;
+  font-size: 0.85rem;
+}
+
+.row-count {
+  color: #888;
+  font-size: 0.8rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.data-table {
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  width: 100%;
+}
+
+.data-table th {
+  text-align: left;
+  padding: 0.4rem 0.7rem;
+  border-bottom: 1px solid #444;
+  color: #aaa;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  position: sticky;
+  top: 0;
+  background: #1a1a1a;
+}
+
+.data-table td {
+  padding: 0.3rem 0.7rem;
+  border-bottom: 1px solid #262626;
+  white-space: nowrap;
+}
+
+.data-table tbody tr:hover {
+  background: #1f1f1f;
+}
+
+.data-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.data-table tfoot td {
+  border-top: 1px solid #444;
+  border-bottom: none;
+  padding-top: 0.5rem;
+}
+
+.pos { color: #00ff88; }
+.neg { color: #ff4444; }
