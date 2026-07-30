@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { getOpenPositions } from '../services/dataService'
 import type { OpenPosition } from '../types'
 import { formatCurrency, formatPct } from '../utils/calculations'
+import { compareValues } from '../utils/sorting'
 
 const COLUMN_LABELS = [
   'Ticker', 'Type', 'Strike', 'Expiry', 'Buy Date', 'Qty',
@@ -9,11 +10,6 @@ const COLUMN_LABELS = [
 ]
 
 type SortDirection = 'asc' | 'desc'
-
-const compareValues = (left: string | number, right: string | number): number => {
-  if (typeof left === 'number' && typeof right === 'number') return left - right
-  return String(left).localeCompare(String(right))
-}
 
 export default function Positions() {
   const [openPositionRows, setOpenPositionRows] = useState<OpenPosition[]>([])
