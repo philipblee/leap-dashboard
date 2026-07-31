@@ -30,6 +30,7 @@ export interface ClosedPosition {
   proceeds: number;
   sellDate: string;
   realizedPnl: number;
+  realizedPct: number;
 }
 
 export interface HistoryRow {
