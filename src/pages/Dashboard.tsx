@@ -150,8 +150,8 @@ export default function Dashboard() {
             <YAxis tick={{ fill: '#999', fontSize: 11 }} tickFormatter={value => formatCurrency(value)} width={90} />
             <Tooltip
               contentStyle={{ background: '#1a1a1a', border: '1px solid #444' }}
-              labelFormatter={formatDate}
-              formatter={(value: number) => formatCurrency(value)}
+              labelFormatter={(label) => formatDate(String(label))}
+              formatter={(value) => formatCurrency(Number(value))}
             />
             <Legend wrapperStyle={{ fontSize: 12, color: '#ccc' }} />
             <Line type="monotone" dataKey="davinciValue" name="Value" stroke="#00ff88" dot={false} strokeWidth={2} />
