@@ -2720,6 +2720,38 @@
     "realizedPct": -17.77
   },
   {
+    "id": "AVGO_320_2028-01-21_119072621_2026-07-31",
+    "ticker": "AVGO",
+    "optionType": "CALL",
+    "strike": "320",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 14556.67,
+    "buyDate": "2026-04-28",
+    "proceeds": 13635.05,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -921.62,
+    "realizedPct": -6.32
+  },
+  {
+    "id": "AVGO_320_2028-01-21_119072621_2026-07-31",
+    "ticker": "AVGO",
+    "optionType": "CALL",
+    "strike": "320",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 16220.67,
+    "buyDate": "2026-05-12",
+    "proceeds": 13635.05,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -2585.62,
+    "realizedPct": -15.93
+  },
+  {
     "id": "CRWV_95_2028-01-21_119072621_2026-07-30",
     "ticker": "CRWV",
     "optionType": "CALL",
@@ -6016,6 +6048,38 @@
     "realizedPct": 93.41
   },
   {
+    "id": "AVGO_310_2028-01-21_119072621_2026-07-31",
+    "ticker": "AVGO",
+    "optionType": "CALL",
+    "strike": "310",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 16305.02,
+    "buyDate": "2026-05-07",
+    "proceeds": 14127.04,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -2177.98,
+    "realizedPct": -13.35
+  },
+  {
+    "id": "AVGO_310_2028-01-21_119072621_2026-07-31",
+    "ticker": "AVGO",
+    "optionType": "CALL",
+    "strike": "310",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 16058.67,
+    "buyDate": "2026-06-04",
+    "proceeds": 14141.04,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -1917.63,
+    "realizedPct": -11.93
+  },
+  {
     "id": "BE_220_2028-01-21_119072621_2026-06-18",
     "ticker": "BE",
     "optionType": "CALL",
@@ -7504,6 +7568,22 @@
     "realizedPct": 74.05
   },
   {
+    "id": "P_65_2028-01-21_119072621_2026-07-31",
+    "ticker": "P",
+    "optionType": "CALL",
+    "strike": "65",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 3510.67,
+    "buyDate": "2026-05-12",
+    "proceeds": 3094.27,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -416.4,
+    "realizedPct": -11.82
+  },
+  {
     "id": "QCOM_150_2028-01-21_119072621_2026-06-03",
     "ticker": "QCOM",
     "optionType": "CALL",
@@ -7918,6 +7998,22 @@
     "sellDate": "2026-06-01",
     "realizedPnl": 5622.36,
     "realizedPct": 63.01
+  },
+  {
+    "id": "P_55_2028-01-21_119072621_2026-07-31",
+    "ticker": "P",
+    "optionType": "CALL",
+    "strike": "55",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 3970.67,
+    "buyDate": "2026-05-15",
+    "proceeds": 3549.26,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -421.41,
+    "realizedPct": -10.58
   },
   {
     "id": "TER_250_2028-01-21_119072621_2026-06-11",
@@ -9168,6 +9264,22 @@
     "realizedPct": 10.71
   },
   {
+    "id": "ADBE_200_2028-01-21_233267024_2026-07-31",
+    "ticker": "ADBE",
+    "optionType": "CALL",
+    "strike": "200",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 9595.67,
+    "buyDate": "2026-06-03",
+    "proceeds": 8822.15,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -773.52,
+    "realizedPct": -8.05
+  },
+  {
     "id": "ALAB_290_2028-01-21_233267024_2026-06-23",
     "ticker": "ALAB",
     "optionType": "CALL",
@@ -9344,6 +9456,22 @@
     "realizedPct": -4.34
   },
   {
+    "id": "SAP_145_2028-01-21_233267024_2026-07-31",
+    "ticker": "SAP",
+    "optionType": "CALL",
+    "strike": "145",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 5999.67,
+    "buyDate": "2026-06-03",
+    "proceeds": 5903.21,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -96.46,
+    "realizedPct": -1.58
+  },
+  {
     "id": "SNOW_190_2028-01-21_119072621_2026-07-07",
     "ticker": "SNOW",
     "optionType": "CALL",
@@ -9454,6 +9582,22 @@
     "sellDate": "2026-06-22",
     "realizedPnl": 573.62,
     "realizedPct": 57.21
+  },
+  {
+    "id": "AVGO_300_2028-01-21_233267024_2026-07-31",
+    "ticker": "AVGO",
+    "optionType": "CALL",
+    "strike": "300",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 16410.67,
+    "buyDate": "2026-06-04",
+    "proceeds": 14384.04,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -2026.63,
+    "realizedPct": -12.34
   },
   {
     "id": "NET_210_2028-01-21_233267024_2026-07-07",
@@ -11150,6 +11294,22 @@
     "sellDate": "2026-07-07",
     "realizedPnl": 983.49,
     "realizedPct": 13.03
+  },
+  {
+    "id": "AMZN_190_2028-01-21_119072621_2026-07-31",
+    "ticker": "AMZN",
+    "optionType": "CALL",
+    "strike": "190",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 7435.66,
+    "buyDate": "2026-07-23",
+    "proceeds": 10082.13,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 2646.47,
+    "realizedPct": 35.62
   },
   {
     "id": "GOOG_280_2028-01-21_119072621_2026-07-07",
@@ -12944,6 +13104,38 @@
     "realizedPct": 1.48
   },
   {
+    "id": "COHR_230_2028-01-21_233267024_2026-07-31",
+    "ticker": "COHR",
+    "optionType": "CALL",
+    "strike": "230",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 15294.66,
+    "buyDate": "2026-07-24",
+    "proceeds": 12819.07,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -2475.59,
+    "realizedPct": -16.18
+  },
+  {
+    "id": "CRDO_175_2028-01-21_119072621_2026-07-31",
+    "ticker": "CRDO",
+    "optionType": "CALL",
+    "strike": "175",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 12000.66,
+    "buyDate": "2026-07-24",
+    "proceeds": 11109.11,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -891.55,
+    "realizedPct": -7.42
+  },
+  {
     "id": "NBIS_190_2028-01-21_233267024_2026-07-30",
     "ticker": "NBIS",
     "optionType": "CALL",
@@ -13022,6 +13214,38 @@
     "sellDate": "2026-07-30",
     "realizedPnl": 678.45,
     "realizedPct": 6.53
+  },
+  {
+    "id": "COHR_210_2028-01-21_233267024_2026-07-31",
+    "ticker": "COHR",
+    "optionType": "CALL",
+    "strike": "210",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 13254.66,
+    "buyDate": "2026-07-27",
+    "proceeds": 13849.05,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 594.39,
+    "realizedPct": 4.5
+  },
+  {
+    "id": "COHR_200_2028-01-21_233267024_2026-07-31",
+    "ticker": "COHR",
+    "optionType": "CALL",
+    "strike": "200",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 13850.66,
+    "buyDate": "2026-07-27",
+    "proceeds": 13799.05,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -51.61,
+    "realizedPct": -0.36
   },
   {
     "id": "LRCX_210_2028-01-21_233267024_2026-07-30",
@@ -13118,6 +13342,22 @@
     "sellDate": "2026-07-30",
     "realizedPnl": 3595.07,
     "realizedPct": 14.06
+  },
+  {
+    "id": "AMKR_35_2028-01-21_233267024_2026-07-31",
+    "ticker": "AMKR",
+    "optionType": "CALL",
+    "strike": "35",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 2.0,
+    "costBasis": 4641.33,
+    "buyDate": "2026-07-28",
+    "proceeds": 5384.55,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 743.22,
+    "realizedPct": 16.08
   },
   {
     "id": "AMKR_40_2028-01-21_119072621_2026-07-30",
@@ -13248,6 +13488,22 @@
     "realizedPct": 20.07
   },
   {
+    "id": "NVDA_150_2028-01-21_119072621_2026-07-31",
+    "ticker": "NVDA",
+    "optionType": "CALL",
+    "strike": "150",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 7184.66,
+    "buyDate": "2026-07-28",
+    "proceeds": 7177.19,
+    "sellDate": "2026-07-31",
+    "realizedPnl": -7.47,
+    "realizedPct": -0.08
+  },
+  {
     "id": "WDC_320_2028-01-21_233267024_2026-07-30",
     "ticker": "WDC",
     "optionType": "CALL",
@@ -13262,5 +13518,53 @@
     "sellDate": "2026-07-30",
     "realizedPnl": 7911.02,
     "realizedPct": 33.19
+  },
+  {
+    "id": "VRT_180_2028-01-21_233267024_2026-07-31",
+    "ticker": "VRT",
+    "optionType": "CALL",
+    "strike": "180",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 10400.66,
+    "buyDate": "2026-07-29",
+    "proceeds": 10973.11,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 572.45,
+    "realizedPct": 5.52
+  },
+  {
+    "id": "VRT_165_2028-01-21_119072621_2026-07-31",
+    "ticker": "VRT",
+    "optionType": "CALL",
+    "strike": "165",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 11025.66,
+    "buyDate": "2026-07-29",
+    "proceeds": 11552.1,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 526.44,
+    "realizedPct": 4.79
+  },
+  {
+    "id": "VRT_180_2028-01-21_119072621_2026-07-31",
+    "ticker": "VRT",
+    "optionType": "CALL",
+    "strike": "180",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 10558.66,
+    "buyDate": "2026-07-29",
+    "proceeds": 10898.11,
+    "sellDate": "2026-07-31",
+    "realizedPnl": 339.45,
+    "realizedPct": 3.23
   }
 ]
