@@ -2170,5 +2170,17 @@
     "cumulativeNetDeployed": "0.0",
     "qqqChgPct": "",
     "spyChgPct": ""
+  },
+  {
+    "date": "2026-08-02",
+    "davinciValue": "1530726.29",
+    "davinciBasis": "2442062.53",
+    "davinciUnrealized": "-911336.24",
+    "davinciRealized": "1588212.86",
+    "cumulativeRealizedLeaps": "0.0",
+    "cumulativeUnrealizedLeaps": "0.0",
+    "cumulativeNetDeployed": "0.0",
+    "qqqChgPct": "",
+    "spyChgPct": ""
   }
 ]
