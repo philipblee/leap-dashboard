@@ -1369,9 +1369,9 @@
   },
   {
     "date": "2026-05-27",
-    "davinciValue": "2589142.36",
+    "davinciValue": "2590027.36",
     "davinciBasis": "2276760.33",
-    "davinciUnrealized": "312382.03",
+    "davinciUnrealized": "313267.03",
     "davinciRealized": "744613.12",
     "cumulativeRealizedLeaps": "718563.25",
     "cumulativeUnrealizedLeaps": "322852.0",
@@ -1729,9 +1729,9 @@
   },
   {
     "date": "2026-06-26",
-    "davinciValue": "3826870.36",
+    "davinciValue": "3823099.36",
     "davinciBasis": "4288257.11",
-    "davinciUnrealized": "-461386.75",
+    "davinciUnrealized": "-465157.75",
     "davinciRealized": "1604323.63",
     "cumulativeRealizedLeaps": "1562082.94",
     "cumulativeUnrealizedLeaps": "-440316.0",
@@ -1837,9 +1837,9 @@
   },
   {
     "date": "2026-07-05",
-    "davinciValue": "4140774.39",
+    "davinciValue": "4255137.39",
     "davinciBasis": "4478490.66",
-    "davinciUnrealized": "-337716.27",
+    "davinciUnrealized": "-223353.27",
     "davinciRealized": "1769809.58",
     "cumulativeRealizedLeaps": "0.0",
     "cumulativeUnrealizedLeaps": "0.0",
@@ -1969,9 +1969,9 @@
   },
   {
     "date": "2026-07-16",
-    "davinciValue": "2749781.17",
+    "davinciValue": "2749781.18",
     "davinciBasis": "3768150.48",
-    "davinciUnrealized": "-1018369.31",
+    "davinciUnrealized": "-1018369.3",
     "davinciRealized": "1857447.17",
     "cumulativeRealizedLeaps": "1791455.13",
     "cumulativeUnrealizedLeaps": "-944412.0",
@@ -2089,9 +2089,9 @@
   },
   {
     "date": "2026-07-26",
-    "davinciValue": "2803091.55",
+    "davinciValue": "3103106.55",
     "davinciBasis": "3518632.69",
-    "davinciUnrealized": "-715541.14",
+    "davinciUnrealized": "-415526.14",
     "davinciRealized": "1819963.75",
     "cumulativeRealizedLeaps": "0.0",
     "cumulativeUnrealizedLeaps": "0.0",
@@ -2185,14 +2185,26 @@
   },
   {
     "date": "2026-08-03",
-    "davinciValue": "1464059.19",
+    "davinciValue": "1472775.9",
     "davinciBasis": "2308565.79",
-    "davinciUnrealized": "-844506.6",
+    "davinciUnrealized": "-835789.89",
     "davinciRealized": "1570219.71",
     "cumulativeRealizedLeaps": "1504227.67",
     "cumulativeUnrealizedLeaps": "-728883.0",
     "cumulativeNetDeployed": "1977679.18",
     "qqqChgPct": "1.7558",
     "spyChgPct": "1.4243"
+  },
+  {
+    "date": "2026-08-04",
+    "davinciValue": "960329.3",
+    "davinciBasis": "1334709.74",
+    "davinciUnrealized": "-374380.44",
+    "davinciRealized": "1280985.65",
+    "cumulativeRealizedLeaps": "1214993.61",
+    "cumulativeUnrealizedLeaps": "-298962.0",
+    "cumulativeNetDeployed": "2662301.14",
+    "qqqChgPct": "3.3968",
+    "spyChgPct": "1.8029"
   }
 ]
