@@ -8048,6 +8048,38 @@
     "realizedPct": 63.01
   },
   {
+    "id": "NVDA_175_2028-01-21_119072621_2026-08-05",
+    "ticker": "NVDA",
+    "optionType": "CALL",
+    "strike": "175",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 8675.67,
+    "buyDate": "2026-05-15",
+    "proceeds": 7549.18,
+    "sellDate": "2026-08-05",
+    "realizedPnl": -1126.49,
+    "realizedPct": -12.97
+  },
+  {
+    "id": "NVDA_175_2028-01-21_119072621_2026-08-05",
+    "ticker": "NVDA",
+    "optionType": "CALL",
+    "strike": "175",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 7875.67,
+    "buyDate": "2026-05-21",
+    "proceeds": 7549.18,
+    "sellDate": "2026-08-05",
+    "realizedPnl": -326.49,
+    "realizedPct": -4.13
+  },
+  {
     "id": "P_55_2028-01-21_119072621_2026-07-31",
     "ticker": "P",
     "optionType": "CALL",
@@ -9310,6 +9342,22 @@
     "sellDate": "2026-07-16",
     "realizedPnl": -2226.55,
     "realizedPct": -17.69
+  },
+  {
+    "id": "KTOS_50_2028-01-21_119072621_2026-08-05",
+    "ticker": "KTOS",
+    "optionType": "CALL",
+    "strike": "50",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 2950.67,
+    "buyDate": "2026-06-02",
+    "proceeds": 2434.28,
+    "sellDate": "2026-08-05",
+    "realizedPnl": -516.39,
+    "realizedPct": -17.46
   },
   {
     "id": "RDDT_130_2028-01-21_119072621_2026-07-01",
