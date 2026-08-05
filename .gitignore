@@ -25,3 +25,5 @@ dist-ssr
 *.sln
 *.sw?
 .idea/
+run_output.txt
+data/csv/archive/

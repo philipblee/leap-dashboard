@@ -35,10 +35,10 @@ export interface ClosedPosition {
 
 export interface HistoryRow {
   date: string;
-  davinciValue: string;
-  davinciBasis: string;
-  davinciUnrealized: string;
-  davinciRealized: string;
+  leapValue: string;
+  leapBasis: string;
+  leapUnrealized: string;
+  leapRealized: string;
   cumulativeRealizedLeaps: string;
   cumulativeUnrealizedLeaps: string;
   cumulativeNetDeployed: string;

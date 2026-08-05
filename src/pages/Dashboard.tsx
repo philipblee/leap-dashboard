@@ -8,8 +8,8 @@ import { formatCurrency, formatDate } from '../utils/calculations'
 
 interface ChartPoint {
   date: string
-  davinciValue: number
-  davinciBasis: number
+  leapValue: number
+  leapBasis: number
   netGainLoss: number
 }
 
@@ -42,7 +42,7 @@ export default function Dashboard() {
 
   const latestRow = useMemo(() => {
     for (let i = historyRows.length - 1; i >= 0; i--) {
-      if (historyRows[i].davinciValue !== '') return historyRows[i]
+      if (historyRows[i].leapValue !== '') return historyRows[i]
     }
     return null
   }, [historyRows])
@@ -50,18 +50,18 @@ export default function Dashboard() {
   const allChartPoints = useMemo<ChartPoint[]>(() => {
     return historyRows
       .map(row => {
-        const davinciValue = toNumberOrNull(row.davinciValue)
-        const davinciBasis = toNumberOrNull(row.davinciBasis)
-        const davinciRealized = toNumberOrNull(row.davinciRealized)
-        const davinciUnrealized = toNumberOrNull(row.davinciUnrealized)
-        if (davinciValue === null || davinciBasis === null || davinciRealized === null || davinciUnrealized === null) {
+        const leapValue = toNumberOrNull(row.leapValue)
+        const leapBasis = toNumberOrNull(row.leapBasis)
+        const leapRealized = toNumberOrNull(row.leapRealized)
+        const leapUnrealized = toNumberOrNull(row.leapUnrealized)
+        if (leapValue === null || leapBasis === null || leapRealized === null || leapUnrealized === null) {
           return null
         }
         return {
           date: row.date,
-          davinciValue,
-          davinciBasis,
-          netGainLoss: davinciRealized + davinciUnrealized,
+          leapValue,
+          leapBasis,
+          netGainLoss: leapRealized + leapUnrealized,
         }
       })
       .filter((point): point is ChartPoint => point !== null)
@@ -77,11 +77,11 @@ export default function Dashboard() {
   if (loadError) return <p className="neg">Failed to load history: {loadError}</p>
   if (!latestRow) return <p>No history data available.</p>
 
-  const davinciValue = toNumberOrNull(latestRow.davinciValue) ?? 0
-  const davinciBasis = toNumberOrNull(latestRow.davinciBasis) ?? 0
-  const davinciUnrealized = toNumberOrNull(latestRow.davinciUnrealized) ?? 0
-  const davinciRealized = toNumberOrNull(latestRow.davinciRealized) ?? 0
-  const netGainLoss = davinciRealized + davinciUnrealized
+  const leapValue = toNumberOrNull(latestRow.leapValue) ?? 0
+  const leapBasis = toNumberOrNull(latestRow.leapBasis) ?? 0
+  const leapUnrealized = toNumberOrNull(latestRow.leapUnrealized) ?? 0
+  const leapRealized = toNumberOrNull(latestRow.leapRealized) ?? 0
+  const netGainLoss = leapRealized + leapUnrealized
   const cumulativeRealizedLeaps = toNumberOrNull(latestRow.cumulativeRealizedLeaps) ?? 0
   const cumulativeUnrealizedLeaps = toNumberOrNull(latestRow.cumulativeUnrealizedLeaps) ?? 0
   const cumulativeNetDeployed = toNumberOrNull(latestRow.cumulativeNetDeployed) ?? 0
@@ -94,20 +94,20 @@ export default function Dashboard() {
 
       <div className="card-grid">
         <div className="card">
-          <span className="card-label">DaVinci Era Value</span>
-          <span className="card-value">{formatCurrency(davinciValue)}</span>
+          <span className="card-label">LEAP Value</span>
+          <span className="card-value">{formatCurrency(leapValue)}</span>
         </div>
         <div className="card">
-          <span className="card-label">DaVinci Era Basis</span>
-          <span className="card-value">{formatCurrency(davinciBasis)}</span>
+          <span className="card-label">LEAP Basis</span>
+          <span className="card-value">{formatCurrency(leapBasis)}</span>
         </div>
         <div className="card">
-          <span className="card-label">DaVinci Unrealized</span>
-          <span className={`card-value ${signClass(davinciUnrealized)}`}>{formatCurrency(davinciUnrealized)}</span>
+          <span className="card-label">LEAP Unrealized</span>
+          <span className={`card-value ${signClass(leapUnrealized)}`}>{formatCurrency(leapUnrealized)}</span>
         </div>
         <div className="card">
-          <span className="card-label">DaVinci Realized</span>
-          <span className={`card-value ${signClass(davinciRealized)}`}>{formatCurrency(davinciRealized)}</span>
+          <span className="card-label">LEAP Realized</span>
+          <span className={`card-value ${signClass(leapRealized)}`}>{formatCurrency(leapRealized)}</span>
         </div>
         <div className="card">
           <span className="card-label">Net Gain / Loss</span>
@@ -128,7 +128,7 @@ export default function Dashboard() {
       </div>
 
       <div className="chart-header">
-        <h3 className="chart-title">DaVinci Value vs Basis vs Net Gain/Loss</h3>
+        <h3 className="chart-title">LEAP Value vs Basis vs Net Gain/Loss</h3>
         <div className="range-toggle">
           {(Object.keys(RANGE_DAYS) as RangeFilter[]).map(range => (
             <button
@@ -154,8 +154,8 @@ export default function Dashboard() {
               formatter={(value) => formatCurrency(Number(value))}
             />
             <Legend wrapperStyle={{ fontSize: 12, color: '#ccc' }} />
-            <Line type="monotone" dataKey="davinciValue" name="Value" stroke="#00ff88" dot={false} strokeWidth={2} />
-            <Line type="monotone" dataKey="davinciBasis" name="Basis" stroke="#888" dot={false} strokeWidth={2} />
+            <Line type="monotone" dataKey="leapValue" name="Value" stroke="#00ff88" dot={false} strokeWidth={2} />
+            <Line type="monotone" dataKey="leapBasis" name="Basis" stroke="#888" dot={false} strokeWidth={2} />
             <Line type="monotone" dataKey="netGainLoss" name="Net Gain/Loss" stroke="#4da6ff" dot={false} strokeWidth={2} />
           </LineChart>
         </ResponsiveContainer>
@@ -176,8 +176,8 @@ export default function Dashboard() {
             {[...filteredChartPoints].reverse().map(point => (
               <tr key={point.date}>
                 <td>{formatDate(point.date)}</td>
-                <td className="num">{formatCurrency(point.davinciValue)}</td>
-                <td className="num">{formatCurrency(point.davinciBasis)}</td>
+                <td className="num">{formatCurrency(point.leapValue)}</td>
+                <td className="num">{formatCurrency(point.leapBasis)}</td>
                 <td className={`num ${signClass(point.netGainLoss)}`}>{formatCurrency(point.netGainLoss)}</td>
               </tr>
             ))}
