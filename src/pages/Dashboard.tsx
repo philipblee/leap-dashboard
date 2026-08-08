@@ -10,6 +10,8 @@ interface ChartPoint {
   date: string
   leapValue: number
   leapBasis: number
+  leapUnrealized: number
+  leapRealized: number
   netGainLoss: number
 }
 
@@ -61,6 +63,8 @@ export default function Dashboard() {
           date: row.date,
           leapValue,
           leapBasis,
+          leapUnrealized,
+          leapRealized,
           netGainLoss: leapRealized + leapUnrealized,
         }
       })
@@ -169,6 +173,8 @@ export default function Dashboard() {
               <th>Date</th>
               <th>Value</th>
               <th>Basis</th>
+              <th>Unrealized Gain</th>
+              <th>Realized Gain</th>
               <th>Net Gain/Loss</th>
             </tr>
           </thead>
@@ -178,6 +184,8 @@ export default function Dashboard() {
                 <td>{formatDate(point.date)}</td>
                 <td className="num">{formatCurrency(point.leapValue)}</td>
                 <td className="num">{formatCurrency(point.leapBasis)}</td>
+                <td className={`num ${signClass(point.leapUnrealized)}`}>{formatCurrency(point.leapUnrealized)}</td>
+                <td className={`num ${signClass(point.leapRealized)}`}>{formatCurrency(point.leapRealized)}</td>
                 <td className={`num ${signClass(point.netGainLoss)}`}>{formatCurrency(point.netGainLoss)}</td>
               </tr>
             ))}
