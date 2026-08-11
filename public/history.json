@@ -1249,9 +1249,9 @@
   },
   {
     "date": "2026-05-17",
-    "leapValue": "2003790.0",
+    "leapValue": "2003615.0",
     "leapBasis": "1905008.89",
-    "leapUnrealized": "98781.11",
+    "leapUnrealized": "98606.11",
     "leapRealized": "566027.68",
     "cumulativeRealizedLeaps": "566027.68",
     "cumulativeUnrealizedLeaps": "98367.0",
@@ -1837,9 +1837,9 @@
   },
   {
     "date": "2026-07-05",
-    "leapValue": "3855574.0",
+    "leapValue": "3860785.0",
     "leapBasis": "4034599.94",
-    "leapUnrealized": "-179025.94",
+    "leapUnrealized": "-173814.94",
     "leapRealized": "1720099.9",
     "cumulativeRealizedLeaps": "1720099.9",
     "cumulativeUnrealizedLeaps": "0.0",
@@ -2089,9 +2089,9 @@
   },
   {
     "date": "2026-07-26",
-    "leapValue": "2746677.0",
+    "leapValue": "2751808.0",
     "leapBasis": "3042842.84",
-    "leapUnrealized": "-296165.84",
+    "leapUnrealized": "-291034.84",
     "leapRealized": "1753971.71",
     "cumulativeRealizedLeaps": "1753971.71",
     "cumulativeUnrealizedLeaps": "0.0",
@@ -2252,6 +2252,42 @@
     "cumulativeRealizedLeaps": "1210013.2",
     "cumulativeUnrealizedLeaps": "-300349.0",
     "cumulativeNetDeployed": "2711903.65",
+    "qqqChgPct": "",
+    "spyChgPct": ""
+  },
+  {
+    "date": "2026-08-09",
+    "leapValue": "482873.0",
+    "leapBasis": "783283.22",
+    "leapUnrealized": "-300410.22",
+    "leapRealized": "1210013.2",
+    "cumulativeRealizedLeaps": "1210013.2",
+    "cumulativeUnrealizedLeaps": "0.0",
+    "cumulativeNetDeployed": "2711903.65",
+    "qqqChgPct": "",
+    "spyChgPct": ""
+  },
+  {
+    "date": "2026-08-10",
+    "leapValue": "467108.0",
+    "leapBasis": "774072.12",
+    "leapUnrealized": "-306964.12",
+    "leapRealized": "1207546.65",
+    "cumulativeRealizedLeaps": "1207546.65",
+    "cumulativeUnrealizedLeaps": "-306903.0",
+    "cumulativeNetDeployed": "2707075.4",
+    "qqqChgPct": "-0.2987",
+    "spyChgPct": "-0.0297"
+  },
+  {
+    "date": "2026-08-11",
+    "leapValue": "466958.0",
+    "leapBasis": "774072.12",
+    "leapUnrealized": "-307114.12",
+    "leapRealized": "1207546.65",
+    "cumulativeRealizedLeaps": "1207546.65",
+    "cumulativeUnrealizedLeaps": "-307053.0",
+    "cumulativeNetDeployed": "2707075.4",
     "qqqChgPct": "",
     "spyChgPct": ""
   }
