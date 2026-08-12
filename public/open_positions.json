@@ -789,10 +789,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 10.0,
-    "currentValue": 6400.0,
+    "currentValue": 6300.0,
     "totalCostBasis": 12106.73,
-    "unrealizedPnl": -5700.0,
-    "unrealizedPct": -47.11
+    "unrealizedPnl": -5800.0,
+    "unrealizedPct": -47.93
   },
   {
     "id": "UMC_20_2028-01-21_233267024_2026-06-26",
@@ -804,10 +804,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 5.0,
-    "currentValue": 3200.0,
+    "currentValue": 3150.0,
     "totalCostBasis": 6203.36,
-    "unrealizedPnl": -3000.0,
-    "unrealizedPct": -48.39
+    "unrealizedPnl": -3050.0,
+    "unrealizedPct": -49.19
   },
   {
     "id": "QCOM_135_2028-01-21_119072621_2026-06-30",
