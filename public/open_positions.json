@@ -24,10 +24,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 2.0,
-    "currentValue": 3950.0,
+    "currentValue": 4170.0,
     "totalCostBasis": 6106.05,
-    "unrealizedPnl": -2156.0,
-    "unrealizedPct": -35.31
+    "unrealizedPnl": -1936.0,
+    "unrealizedPct": -31.71
   },
   {
     "id": "NFLX_75_2028-01-21_233267024_2026-05-01",
@@ -39,10 +39,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 2.0,
-    "currentValue": 3950.0,
+    "currentValue": 4170.0,
     "totalCostBasis": 6150.05,
-    "unrealizedPnl": -2200.0,
-    "unrealizedPct": -35.77
+    "unrealizedPnl": -1980.0,
+    "unrealizedPct": -32.2
   },
   {
     "id": "NFLX_75_2028-01-21_233267024_2026-05-01",
@@ -54,10 +54,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 1975.0,
+    "currentValue": 2085.0,
     "totalCostBasis": 3050.02,
-    "unrealizedPnl": -1075.0,
-    "unrealizedPct": -35.25
+    "unrealizedPnl": -965.0,
+    "unrealizedPct": -31.64
   },
   {
     "id": "CEG_230_2028-01-21_119072621_2026-04-29",
@@ -84,10 +84,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 9525.0,
+    "currentValue": 9180.0,
     "totalCostBasis": 11179.67,
-    "unrealizedPnl": -1654.0,
-    "unrealizedPct": -14.8
+    "unrealizedPnl": -1999.0,
+    "unrealizedPct": -17.88
   },
   {
     "id": "CIEN_410_2028-01-21_119072621_2026-05-07",
@@ -114,10 +114,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 8.0,
-    "currentValue": 3192.0,
+    "currentValue": 3400.0,
     "totalCostBasis": 6341.38,
-    "unrealizedPnl": -3144.0,
-    "unrealizedPct": -49.62
+    "unrealizedPnl": -2936.0,
+    "unrealizedPct": -46.34
   },
   {
     "id": "TTD_17.5_2028-01-21_233267024_2026-05-08",
@@ -129,10 +129,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 5.0,
-    "currentValue": 1625.0,
+    "currentValue": 1700.0,
     "totalCostBasis": 5228.36,
-    "unrealizedPnl": -3600.0,
-    "unrealizedPct": -68.9
+    "unrealizedPnl": -3525.0,
+    "unrealizedPct": -67.46
   },
   {
     "id": "QCOM_175_2028-01-21_119072621_2026-06-01",
@@ -144,10 +144,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 3535.0,
+    "currentValue": 3715.0,
     "totalCostBasis": 9885.67,
-    "unrealizedPnl": -6350.0,
-    "unrealizedPct": -64.24
+    "unrealizedPnl": -6170.0,
+    "unrealizedPct": -62.42
   },
   {
     "id": "EWY_125_2028-01-21_233267024_2026-06-23",
@@ -174,10 +174,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 4091.0,
+    "currentValue": 4390.0,
     "totalCostBasis": 7655.67,
-    "unrealizedPnl": -3564.0,
-    "unrealizedPct": -46.56
+    "unrealizedPnl": -3265.0,
+    "unrealizedPct": -42.65
   },
   {
     "id": "QCOM_160_2028-01-21_119072621_2026-05-12",
@@ -189,10 +189,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 4091.0,
+    "currentValue": 4390.0,
     "totalCostBasis": 8026.67,
-    "unrealizedPnl": -3935.0,
-    "unrealizedPct": -49.03
+    "unrealizedPnl": -3636.0,
+    "unrealizedPct": -45.3
   },
   {
     "id": "QCOM_160_2028-01-21_119072621_2026-05-27",
@@ -204,10 +204,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 4091.0,
+    "currentValue": 4390.0,
     "totalCostBasis": 10110.67,
-    "unrealizedPnl": -6019.0,
-    "unrealizedPct": -59.54
+    "unrealizedPnl": -5720.0,
+    "unrealizedPct": -56.58
   },
   {
     "id": "VRT_260_2028-01-21_119072621_2026-05-18",
@@ -219,10 +219,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 8700.0,
+    "currentValue": 7768.0,
     "totalCostBasis": 15030.67,
-    "unrealizedPnl": -6330.0,
-    "unrealizedPct": -42.12
+    "unrealizedPnl": -7262.0,
+    "unrealizedPct": -48.32
   },
   {
     "id": "VRT_260_2028-01-21_119072621_2026-05-28",
@@ -234,10 +234,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 8700.0,
+    "currentValue": 7768.0,
     "totalCostBasis": 13669.67,
-    "unrealizedPnl": -4969.0,
-    "unrealizedPct": -36.35
+    "unrealizedPnl": -5901.0,
+    "unrealizedPct": -43.17
   },
   {
     "id": "MOD_220_2028-01-21_119072621_2026-05-27",
@@ -264,10 +264,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3760.0,
+    "currentValue": 3990.0,
     "totalCostBasis": 9777.67,
-    "unrealizedPnl": -6017.0,
-    "unrealizedPct": -61.54
+    "unrealizedPnl": -5787.0,
+    "unrealizedPct": -59.19
   },
   {
     "id": "QCOM_170_2028-01-21_233267024_2026-05-27",
@@ -279,10 +279,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3760.0,
+    "currentValue": 3990.0,
     "totalCostBasis": 9938.67,
-    "unrealizedPnl": -6178.0,
-    "unrealizedPct": -62.17
+    "unrealizedPnl": -5948.0,
+    "unrealizedPct": -59.85
   },
   {
     "id": "QCOM_170_2028-01-21_233267024_2026-06-01",
@@ -294,10 +294,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3760.0,
+    "currentValue": 3990.0,
     "totalCostBasis": 10425.67,
-    "unrealizedPnl": -6665.0,
-    "unrealizedPct": -63.93
+    "unrealizedPnl": -6435.0,
+    "unrealizedPct": -61.73
   },
   {
     "id": "QCOM_180_2028-01-21_233267024_2026-05-27",
@@ -309,10 +309,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3300.0,
+    "currentValue": 3355.0,
     "totalCostBasis": 9297.67,
-    "unrealizedPnl": -5997.0,
-    "unrealizedPct": -64.5
+    "unrealizedPnl": -5942.0,
+    "unrealizedPct": -63.91
   },
   {
     "id": "CIEN_470_2028-01-21_233267024_2026-05-28",
@@ -354,10 +354,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3535.0,
+    "currentValue": 3715.0,
     "totalCostBasis": 10263.67,
-    "unrealizedPnl": -6728.0,
-    "unrealizedPct": -65.56
+    "unrealizedPnl": -6548.0,
+    "unrealizedPct": -63.8
   },
   {
     "id": "CRWD_580_2028-01-21_119072621_2026-06-02",
@@ -384,10 +384,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 325.0,
+    "currentValue": 340.0,
     "totalCostBasis": 980.67,
-    "unrealizedPnl": -655.0,
-    "unrealizedPct": -66.84
+    "unrealizedPnl": -640.0,
+    "unrealizedPct": -65.31
   },
   {
     "id": "CIEN_400_2028-01-21_119072621_2026-06-04",
@@ -399,10 +399,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 14712.0,
+    "currentValue": 13442.0,
     "totalCostBasis": 25000.67,
-    "unrealizedPnl": -10288.0,
-    "unrealizedPct": -41.15
+    "unrealizedPnl": -11558.0,
+    "unrealizedPct": -46.23
   },
   {
     "id": "CIEN_400_2028-01-21_119072621_2026-06-05",
@@ -414,10 +414,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 14712.0,
+    "currentValue": 13442.0,
     "totalCostBasis": 25300.67,
-    "unrealizedPnl": -10588.0,
-    "unrealizedPct": -41.85
+    "unrealizedPnl": -11858.0,
+    "unrealizedPct": -46.87
   },
   {
     "id": "CIEN_490_2028-01-21_233267024_2026-06-04",
@@ -489,10 +489,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4870.0,
+    "currentValue": 4795.0,
     "totalCostBasis": 7428.67,
-    "unrealizedPnl": -2558.0,
-    "unrealizedPct": -34.44
+    "unrealizedPnl": -2633.0,
+    "unrealizedPct": -35.45
   },
   {
     "id": "ORCL_135_2028-01-21_X69705290_2026-06-11",
@@ -534,10 +534,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4294.0,
+    "currentValue": 4350.0,
     "totalCostBasis": 8086.67,
-    "unrealizedPnl": -3792.0,
-    "unrealizedPct": -46.9
+    "unrealizedPnl": -3736.0,
+    "unrealizedPct": -46.2
   },
   {
     "id": "SPCX_150_2028-01-21_119072621_2026-06-18",
@@ -549,10 +549,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 3692.0,
+    "currentValue": 3794.0,
     "totalCostBasis": 7445.67,
-    "unrealizedPnl": -3753.0,
-    "unrealizedPct": -50.41
+    "unrealizedPnl": -3651.0,
+    "unrealizedPct": -49.04
   },
   {
     "id": "SPCX_115_2028-01-21_233267024_2026-06-22",
@@ -564,10 +564,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 5120.0,
+    "currentValue": 5230.0,
     "totalCostBasis": 8132.67,
-    "unrealizedPnl": -3012.0,
-    "unrealizedPct": -37.04
+    "unrealizedPnl": -2902.0,
+    "unrealizedPct": -35.69
   },
   {
     "id": "SPCX_120_2028-01-21_233267024_2026-06-22",
@@ -579,10 +579,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4890.0,
+    "currentValue": 5023.0,
     "totalCostBasis": 7870.67,
-    "unrealizedPnl": -2980.0,
-    "unrealizedPct": -37.87
+    "unrealizedPnl": -2847.0,
+    "unrealizedPct": -36.18
   },
   {
     "id": "SPCX_120_2028-01-21_119072621_2026-06-22",
@@ -594,10 +594,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 4890.0,
+    "currentValue": 5023.0,
     "totalCostBasis": 7890.67,
-    "unrealizedPnl": -3000.0,
-    "unrealizedPct": -38.02
+    "unrealizedPnl": -2867.0,
+    "unrealizedPct": -36.34
   },
   {
     "id": "GNRC_220_2028-01-21_233267024_2026-06-23",
@@ -639,10 +639,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4500.0,
+    "currentValue": 4690.0,
     "totalCostBasis": 8843.67,
-    "unrealizedPnl": -4343.0,
-    "unrealizedPct": -49.11
+    "unrealizedPnl": -4153.0,
+    "unrealizedPct": -46.96
   },
   {
     "id": "QCOM_150_2028-01-21_233267024_2026-06-23",
@@ -654,10 +654,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4500.0,
+    "currentValue": 4690.0,
     "totalCostBasis": 8842.67,
-    "unrealizedPnl": -4342.0,
-    "unrealizedPct": -49.11
+    "unrealizedPnl": -4152.0,
+    "unrealizedPct": -46.96
   },
   {
     "id": "VRT_240_2028-01-21_233267024_2026-06-23",
@@ -669,10 +669,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 9614.0,
+    "currentValue": 8893.0,
     "totalCostBasis": 14595.67,
-    "unrealizedPnl": -4981.0,
-    "unrealizedPct": -34.13
+    "unrealizedPnl": -5702.0,
+    "unrealizedPct": -39.07
   },
   {
     "id": "VRT_250_2028-01-21_233267024_2026-06-23",
@@ -684,10 +684,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 9575.0,
+    "currentValue": 8400.0,
     "totalCostBasis": 14675.67,
-    "unrealizedPnl": -5100.0,
-    "unrealizedPct": -34.75
+    "unrealizedPnl": -6275.0,
+    "unrealizedPct": -42.76
   },
   {
     "id": "VRT_250_2028-01-21_119072621_2026-06-23",
@@ -699,10 +699,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 9575.0,
+    "currentValue": 8400.0,
     "totalCostBasis": 14628.67,
-    "unrealizedPnl": -5053.0,
-    "unrealizedPct": -34.54
+    "unrealizedPnl": -6228.0,
+    "unrealizedPct": -42.58
   },
   {
     "id": "WDC_540_2028-01-21_119072621_2026-06-23",
@@ -744,10 +744,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 2.0,
-    "currentValue": 3000.0,
+    "currentValue": 2394.0,
     "totalCostBasis": 7921.35,
-    "unrealizedPnl": -4920.0,
-    "unrealizedPct": -62.12
+    "unrealizedPnl": -5526.0,
+    "unrealizedPct": -69.77
   },
   {
     "id": "AMKR_60_2028-01-21_119072621_2026-06-26",
@@ -759,10 +759,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 3.0,
-    "currentValue": 4860.0,
+    "currentValue": 4560.0,
     "totalCostBasis": 12257.02,
-    "unrealizedPnl": -7395.0,
-    "unrealizedPct": -60.34
+    "unrealizedPnl": -7695.0,
+    "unrealizedPct": -62.79
   },
   {
     "id": "AMKR_65_2028-01-21_233267024_2026-06-26",
@@ -774,10 +774,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 2.0,
-    "currentValue": 3000.0,
+    "currentValue": 2394.0,
     "totalCostBasis": 7981.35,
-    "unrealizedPnl": -4980.0,
-    "unrealizedPct": -62.41
+    "unrealizedPnl": -5586.0,
+    "unrealizedPct": -70.0
   },
   {
     "id": "UMC_20_2028-01-21_233267024_2026-06-26",
@@ -789,10 +789,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 10.0,
-    "currentValue": 5500.0,
+    "currentValue": 6200.0,
     "totalCostBasis": 12106.73,
-    "unrealizedPnl": -6600.0,
-    "unrealizedPct": -54.55
+    "unrealizedPnl": -5900.0,
+    "unrealizedPct": -48.76
   },
   {
     "id": "UMC_20_2028-01-21_233267024_2026-06-26",
@@ -804,10 +804,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 5.0,
-    "currentValue": 2750.0,
+    "currentValue": 3100.0,
     "totalCostBasis": 6203.36,
-    "unrealizedPnl": -3450.0,
-    "unrealizedPct": -55.65
+    "unrealizedPnl": -3100.0,
+    "unrealizedPct": -50.0
   },
   {
     "id": "QCOM_135_2028-01-21_119072621_2026-06-30",
@@ -819,10 +819,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 4950.0,
+    "currentValue": 5350.0,
     "totalCostBasis": 8125.67,
-    "unrealizedPnl": -3175.0,
-    "unrealizedPct": -39.08
+    "unrealizedPnl": -2775.0,
+    "unrealizedPct": -34.15
   },
   {
     "id": "GLW_165_2028-01-21_233267024_2026-07-01",
@@ -834,10 +834,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4330.0,
+    "currentValue": 4275.0,
     "totalCostBasis": 11204.66,
-    "unrealizedPnl": -6874.0,
-    "unrealizedPct": -61.35
+    "unrealizedPnl": -6929.0,
+    "unrealizedPct": -61.84
   },
   {
     "id": "GLW_170_2028-01-21_233267024_2026-07-01",
@@ -849,10 +849,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 4150.0,
+    "currentValue": 4230.0,
     "totalCostBasis": 11275.66,
-    "unrealizedPnl": -7125.0,
-    "unrealizedPct": -63.19
+    "unrealizedPnl": -7045.0,
+    "unrealizedPct": -62.48
   },
   {
     "id": "KLAC_220_2028-01-21_209435910_2026-07-01",
@@ -924,10 +924,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 5730.0,
+    "currentValue": 4170.0,
     "totalCostBasis": 12140.66,
-    "unrealizedPnl": -6410.0,
-    "unrealizedPct": -52.8
+    "unrealizedPnl": -7970.0,
+    "unrealizedPct": -65.65
   },
   {
     "id": "KLAC_224_2028-01-21_119072621_2026-07-01",
@@ -954,10 +954,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 2.0,
-    "currentValue": 3860.0,
+    "currentValue": 3240.0,
     "totalCostBasis": 6379.33,
-    "unrealizedPnl": -2518.0,
-    "unrealizedPct": -39.48
+    "unrealizedPnl": -3138.0,
+    "unrealizedPct": -49.2
   },
   {
     "id": "KLAC_160_2028-01-21_119072621_2026-07-27",
@@ -969,10 +969,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 6495.0,
+    "currentValue": 5905.0,
     "totalCostBasis": 10020.66,
-    "unrealizedPnl": -3525.0,
-    "unrealizedPct": -35.18
+    "unrealizedPnl": -4115.0,
+    "unrealizedPct": -41.07
   },
   {
     "id": "AMD_330_2028-01-21_233267024_2026-08-24",
@@ -984,10 +984,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 21655.0,
+    "currentValue": 20095.0,
     "totalCostBasis": 19341.66,
-    "unrealizedPnl": 2314.0,
-    "unrealizedPct": 11.96
+    "unrealizedPnl": 754.0,
+    "unrealizedPct": 3.9
   },
   {
     "id": "WDC_300_2028-01-21_119072621_2026-08-24",
@@ -999,10 +999,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 22600.0,
+    "currentValue": 23400.0,
     "totalCostBasis": 20687.66,
-    "unrealizedPnl": 1913.0,
-    "unrealizedPct": 9.25
+    "unrealizedPnl": 2713.0,
+    "unrealizedPct": 13.11
   },
   {
     "id": "GNRC_145_2028-01-21_233267024_2026-08-27",
@@ -1014,10 +1014,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 7411.0,
+    "currentValue": 7230.0,
     "totalCostBasis": 7411.66,
-    "unrealizedPnl": 0.0,
-    "unrealizedPct": 0.0
+    "unrealizedPnl": -181.0,
+    "unrealizedPct": -2.44
   },
   {
     "id": "NVDA_180_2028-01-21_119072621_2026-08-27",
@@ -1029,9 +1029,24 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 7500.0,
+    "currentValue": 6720.0,
     "totalCostBasis": 7005.66,
-    "unrealizedPnl": 495.0,
-    "unrealizedPct": 7.07
+    "unrealizedPnl": -285.0,
+    "unrealizedPct": -4.07
+  },
+  {
+    "id": "KLAC_130_2028-01-21_233267024_2026-08-28",
+    "ticker": "KLAC",
+    "optionType": "CALL",
+    "strike": "130",
+    "expiry": "2028-01-21",
+    "buyDate": "2026-08-28",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "openContracts": 1.0,
+    "currentValue": 7310.0,
+    "totalCostBasis": 7382.66,
+    "unrealizedPnl": -72.0,
+    "unrealizedPct": -0.98
   }
 ]
