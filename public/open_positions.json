@@ -1048,5 +1048,20 @@
     "totalCostBasis": 7382.66,
     "unrealizedPnl": 238.0,
     "unrealizedPct": 3.22
+  },
+  {
+    "id": "KLAC_130_2028-01-21_119072621_2026-09-01",
+    "ticker": "KLAC",
+    "optionType": "CALL",
+    "strike": "130",
+    "expiry": "2028-01-21",
+    "buyDate": "2026-09-01",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "openContracts": 1.0,
+    "currentValue": 7620.0,
+    "totalCostBasis": 6662.66,
+    "unrealizedPnl": 958.0,
+    "unrealizedPct": 14.38
   }
 ]
