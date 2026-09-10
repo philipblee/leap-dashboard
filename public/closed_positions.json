@@ -6256,6 +6256,22 @@
     "realizedPct": -6.62
   },
   {
+    "id": "CIEN_410_2028-01-21_119072621_2026-08-13",
+    "ticker": "CIEN",
+    "optionType": "CALL",
+    "strike": "410",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 26250.02,
+    "buyDate": "2026-05-07",
+    "proceeds": 19548.93,
+    "sellDate": "2026-08-13",
+    "realizedPnl": -6701.09,
+    "realizedPct": -25.52
+  },
+  {
     "id": "COHR_250_2028-01-21_119072621_2026-06-02",
     "ticker": "COHR",
     "optionType": "CALL",
@@ -7486,6 +7502,22 @@
     "sellDate": "2026-06-10",
     "realizedPnl": 1093.48,
     "realizedPct": 15.26
+  },
+  {
+    "id": "EWY_125_2028-01-21_233267024_2026-09-09",
+    "ticker": "EWY",
+    "optionType": "CALL",
+    "strike": "125",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 9565.67,
+    "buyDate": "2026-06-23",
+    "proceeds": 7939.17,
+    "sellDate": "2026-09-09",
+    "realizedPnl": -1626.5,
+    "realizedPct": -16.99
   },
   {
     "id": "GLW_145_2028-01-21_119072621_2026-06-25",
@@ -10078,6 +10110,54 @@
     "sellDate": "2026-07-31",
     "realizedPnl": -2026.63,
     "realizedPct": -12.34
+  },
+  {
+    "id": "CIEN_400_2028-01-21_119072621_2026-08-12",
+    "ticker": "CIEN",
+    "optionType": "CALL",
+    "strike": "400",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 25000.67,
+    "buyDate": "2026-06-04",
+    "proceeds": 18598.95,
+    "sellDate": "2026-08-12",
+    "realizedPnl": -6401.72,
+    "realizedPct": -25.6
+  },
+  {
+    "id": "CIEN_400_2028-01-21_119072621_2026-08-13",
+    "ticker": "CIEN",
+    "optionType": "CALL",
+    "strike": "400",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 25300.67,
+    "buyDate": "2026-06-05",
+    "proceeds": 19749.93,
+    "sellDate": "2026-08-13",
+    "realizedPnl": -5550.74,
+    "realizedPct": -21.93
+  },
+  {
+    "id": "CIEN_490_2028-01-21_233267024_2026-08-13",
+    "ticker": "CIEN",
+    "optionType": "CALL",
+    "strike": "490",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 22200.67,
+    "buyDate": "2026-06-04",
+    "proceeds": 16828.99,
+    "sellDate": "2026-08-13",
+    "realizedPnl": -5371.68,
+    "realizedPct": -24.19
   },
   {
     "id": "NET_210_2028-01-21_233267024_2026-07-07",
@@ -14782,5 +14862,21 @@
     "sellDate": "2026-07-31",
     "realizedPnl": 339.45,
     "realizedPct": 3.23
+  },
+  {
+    "id": "AMD_330_2028-01-21_233267024_2026-09-09",
+    "ticker": "AMD",
+    "optionType": "CALL",
+    "strike": "330",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 19341.66,
+    "buyDate": "2026-08-24",
+    "proceeds": 24738.83,
+    "sellDate": "2026-09-09",
+    "realizedPnl": 5397.17,
+    "realizedPct": 27.91
   }
 ]
