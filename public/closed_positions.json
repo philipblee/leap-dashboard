@@ -4912,6 +4912,38 @@
     "realizedPct": 24.7
   },
   {
+    "id": "CEG_230_2028-01-21_119072621_2026-09-11",
+    "ticker": "CEG",
+    "optionType": "CALL",
+    "strike": "230",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 11500.67,
+    "buyDate": "2026-04-29",
+    "proceeds": 9425.14,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -2075.53,
+    "realizedPct": -18.03
+  },
+  {
+    "id": "CEG_230_2028-01-21_119072621_2026-09-11",
+    "ticker": "CEG",
+    "optionType": "CALL",
+    "strike": "230",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 11179.67,
+    "buyDate": "2026-05-11",
+    "proceeds": 9446.14,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -1733.53,
+    "realizedPct": -15.49
+  },
+  {
     "id": "CVE_22_2028-01-21_119072621_2026-05-11",
     "ticker": "CVE",
     "optionType": "CALL",
@@ -10288,6 +10320,22 @@
     "realizedPct": -45.7
   },
   {
+    "id": "EWY_120_2028-01-21_233267024_2026-09-11",
+    "ticker": "EWY",
+    "optionType": "CALL",
+    "strike": "120",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 9000.67,
+    "buyDate": "2026-06-05",
+    "proceeds": 7893.17,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -1107.5,
+    "realizedPct": -12.29
+  },
+  {
     "id": "EWY_115_2028-01-21_233267024_2026-06-11",
     "ticker": "EWY",
     "optionType": "CALL",
@@ -12480,6 +12528,38 @@
     "realizedPct": -37.8
   },
   {
+    "id": "QCOM_150_2028-01-21_233267024_2026-09-11",
+    "ticker": "QCOM",
+    "optionType": "CALL",
+    "strike": "150",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 8843.67,
+    "buyDate": "2026-06-23",
+    "proceeds": 6079.21,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -2764.46,
+    "realizedPct": -31.25
+  },
+  {
+    "id": "QCOM_150_2028-01-21_233267024_2026-09-11",
+    "ticker": "QCOM",
+    "optionType": "CALL",
+    "strike": "150",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 8842.67,
+    "buyDate": "2026-06-23",
+    "proceeds": 6079.21,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -2763.46,
+    "realizedPct": -31.24
+  },
+  {
     "id": "WDC_550_2028-01-21_233267024_2026-07-30",
     "ticker": "WDC",
     "optionType": "CALL",
@@ -13134,6 +13214,22 @@
     "sellDate": "2026-07-01",
     "realizedPnl": 909.55,
     "realizedPct": 19.04
+  },
+  {
+    "id": "QCOM_135_2028-01-21_119072621_2026-09-11",
+    "ticker": "QCOM",
+    "optionType": "CALL",
+    "strike": "135",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 8125.67,
+    "buyDate": "2026-06-30",
+    "proceeds": 6866.19,
+    "sellDate": "2026-09-11",
+    "realizedPnl": -1259.48,
+    "realizedPct": -15.48
   },
   {
     "id": "TEAM_60_2028-01-21_119072621_2026-07-07",
