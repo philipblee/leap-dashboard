@@ -2641,13 +2641,25 @@
   },
   {
     "date": "2026-09-10",
-    "leapValue": "381344.0",
-    "leapBasis": "659600.87",
-    "leapUnrealized": "-278256.87",
+    "leapValue": "378711.0",
+    "leapBasis": "669246.53",
+    "leapUnrealized": "-290535.53",
     "leapRealized": "1187292.09",
     "cumulativeRealizedLeaps": "1187292.09",
-    "cumulativeUnrealizedLeaps": "-305024.0",
-    "cumulativeNetDeployed": "2482960.9",
+    "cumulativeUnrealizedLeaps": "-310142.0",
+    "cumulativeNetDeployed": "2473315.24",
+    "qqqChgPct": "-1.0638",
+    "spyChgPct": "-0.5994"
+  },
+  {
+    "date": "2026-09-11",
+    "leapValue": "378776.0",
+    "leapBasis": "669246.53",
+    "leapUnrealized": "-290470.53",
+    "leapRealized": "1187292.09",
+    "cumulativeRealizedLeaps": "1187292.09",
+    "cumulativeUnrealizedLeaps": "-312037.0",
+    "cumulativeNetDeployed": "2473315.24",
     "qqqChgPct": "",
     "spyChgPct": ""
   }
