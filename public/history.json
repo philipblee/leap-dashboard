@@ -2806,5 +2806,65 @@
     "cumulativeNetDeployed": "2430816.72",
     "qqqChgPct": "-0.8362",
     "spyChgPct": "-0.7176"
+  },
+  {
+    "date": "2026-09-24",
+    "leapValue": "315441.0",
+    "leapBasis": "579150.5",
+    "leapUnrealized": "-263709.5",
+    "leapRealized": "1153287.43",
+    "cumulativeRealizedLeaps": "1153287.43",
+    "cumulativeUnrealizedLeaps": "-287627.0",
+    "cumulativeNetDeployed": "2401048.42",
+    "qqqChgPct": "-0.0148",
+    "spyChgPct": "-0.0847"
+  },
+  {
+    "date": "2026-09-25",
+    "leapValue": "308591.0",
+    "leapBasis": "556302.16",
+    "leapUnrealized": "-247711.16",
+    "leapRealized": "1153287.43",
+    "cumulativeRealizedLeaps": "1153287.43",
+    "cumulativeUnrealizedLeaps": "-281313.0",
+    "cumulativeNetDeployed": "2401048.42",
+    "qqqChgPct": "",
+    "spyChgPct": ""
+  },
+  {
+    "date": "2026-09-26",
+    "leapValue": "285803.0",
+    "leapBasis": "500961.15",
+    "leapUnrealized": "-215158.15",
+    "leapRealized": "1153287.43",
+    "cumulativeRealizedLeaps": "1153287.43",
+    "cumulativeUnrealizedLeaps": "0.0",
+    "cumulativeNetDeployed": "2401048.42",
+    "qqqChgPct": "",
+    "spyChgPct": ""
+  },
+  {
+    "date": "2026-09-27",
+    "leapValue": "285803.0",
+    "leapBasis": "500961.15",
+    "leapUnrealized": "-215158.15",
+    "leapRealized": "1153287.43",
+    "cumulativeRealizedLeaps": "1153287.43",
+    "cumulativeUnrealizedLeaps": "0.0",
+    "cumulativeNetDeployed": "2401048.42",
+    "qqqChgPct": "",
+    "spyChgPct": ""
+  },
+  {
+    "date": "2026-09-28",
+    "leapValue": "282104.0",
+    "leapBasis": "500961.15",
+    "leapUnrealized": "-218857.15",
+    "leapRealized": "1153287.43",
+    "cumulativeRealizedLeaps": "1153287.43",
+    "cumulativeUnrealizedLeaps": "-287725.0",
+    "cumulativeNetDeployed": "2401048.42",
+    "qqqChgPct": "",
+    "spyChgPct": ""
   }
 ]
