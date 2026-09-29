@@ -4944,6 +4944,38 @@
     "realizedPct": -15.49
   },
   {
+    "id": "CRM_140_2028-01-21_119072621_2026-07-16",
+    "ticker": "CRM",
+    "optionType": "CALL",
+    "strike": "140",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 6735.67,
+    "buyDate": "2026-04-29",
+    "proceeds": 5796.22,
+    "sellDate": "2026-07-16",
+    "realizedPnl": -939.45,
+    "realizedPct": -13.93
+  },
+  {
+    "id": "CRM_140_2028-01-21_119072621_2026-07-16",
+    "ticker": "CRM",
+    "optionType": "CALL",
+    "strike": "140",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 6200.02,
+    "buyDate": "2026-04-30",
+    "proceeds": 5792.22,
+    "sellDate": "2026-07-16",
+    "realizedPnl": -407.8,
+    "realizedPct": -6.56
+  },
+  {
     "id": "CVE_22_2028-01-21_119072621_2026-05-11",
     "ticker": "CVE",
     "optionType": "CALL",
@@ -5438,22 +5470,6 @@
     "sellDate": "2026-05-07",
     "realizedPnl": 2526.47,
     "realizedPct": 12.02
-  },
-  {
-    "id": "CRM_140_2028-01-21_119072621_2026-07-16",
-    "ticker": "CRM",
-    "optionType": "CALL",
-    "strike": "140",
-    "expiry": "2028-01-21",
-    "accountName": "IRA-Roll $462K",
-    "accountNumber": "119072621",
-    "contractsSold": 1.0,
-    "costBasis": 6200.02,
-    "buyDate": "2026-04-30",
-    "proceeds": 5796.22,
-    "sellDate": "2026-07-16",
-    "realizedPnl": -403.8,
-    "realizedPct": -6.5
   },
   {
     "id": "META_480_2028-01-21_119072621_2026-07-01",
