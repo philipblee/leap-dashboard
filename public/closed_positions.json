@@ -8976,6 +8976,22 @@
     "realizedPct": -55.79
   },
   {
+    "id": "CIEN_470_2028-01-21_233267024_2026-10-06",
+    "ticker": "CIEN",
+    "optionType": "CALL",
+    "strike": "470",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 28070.67,
+    "buyDate": "2026-05-28",
+    "proceeds": 13184.06,
+    "sellDate": "2026-10-06",
+    "realizedPnl": -14886.61,
+    "realizedPct": -53.03
+  },
+  {
     "id": "MU_700_2028-01-21_233267024_2026-06-11",
     "ticker": "MU",
     "optionType": "CALL",
@@ -12640,6 +12656,22 @@
     "realizedPct": -22.08
   },
   {
+    "id": "GNRC_210_2028-01-21_119072621_2026-10-06",
+    "ticker": "GNRC",
+    "optionType": "CALL",
+    "strike": "210",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 11350.67,
+    "buyDate": "2026-06-23",
+    "proceeds": 6539.2,
+    "sellDate": "2026-10-06",
+    "realizedPnl": -4811.47,
+    "realizedPct": -42.38
+  },
+  {
     "id": "KLAC_185_2028-01-21_119072621_2026-06-30",
     "ticker": "KLAC",
     "optionType": "CALL",
@@ -14816,6 +14848,22 @@
     "realizedPct": -35.72
   },
   {
+    "id": "AMKR_50_2028-01-21_119072621_2026-10-05",
+    "ticker": "AMKR",
+    "optionType": "CALL",
+    "strike": "50",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 3189.66,
+    "buyDate": "2026-07-27",
+    "proceeds": 1989.29,
+    "sellDate": "2026-10-05",
+    "realizedPnl": -1200.38,
+    "realizedPct": -37.6
+  },
+  {
     "id": "CBRS_140_2028-01-21_119072621_2026-07-30",
     "ticker": "CBRS",
     "optionType": "CALL",
@@ -15232,6 +15280,22 @@
     "realizedPct": 27.91
   },
   {
+    "id": "WDC_300_2028-01-21_119072621_2026-10-05",
+    "ticker": "WDC",
+    "optionType": "CALL",
+    "strike": "300",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 20687.66,
+    "buyDate": "2026-08-24",
+    "proceeds": 20478.91,
+    "sellDate": "2026-10-05",
+    "realizedPnl": -208.75,
+    "realizedPct": -1.0
+  },
+  {
     "id": "GNRC_145_2028-01-21_233267024_2026-10-02",
     "ticker": "GNRC",
     "optionType": "CALL",
@@ -15294,6 +15358,22 @@
     "sellDate": "2026-10-02",
     "realizedPnl": 3036.48,
     "realizedPct": 45.6
+  },
+  {
+    "id": "GOOGL_270_2028-01-21_233267024_2026-10-05",
+    "ticker": "GOOGL",
+    "optionType": "CALL",
+    "strike": "270",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 9710.66,
+    "buyDate": "2026-09-09",
+    "proceeds": 10889.11,
+    "sellDate": "2026-10-05",
+    "realizedPnl": 1178.45,
+    "realizedPct": 12.15
   },
   {
     "id": "VRT_200_2028-01-21_119072621_2026-10-02",
