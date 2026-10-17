@@ -3031,9 +3031,9 @@
     "leapRealized": "1078005.59",
     "cumulativeRealizedLeaps": "1078005.59",
     "cumulativeUnrealizedLeaps": "-218563.0",
-    "cumulativeNetDeployed": "2010139.19",
-    "qqqChgPct": "",
-    "spyChgPct": ""
+    "cumulativeNetDeployed": "1788576.39",
+    "qqqChgPct": "-0.6962",
+    "spyChgPct": "-0.0604"
   },
   {
     "date": "2026-10-13",
@@ -3043,9 +3043,9 @@
     "leapRealized": "1078005.59",
     "cumulativeRealizedLeaps": "1078005.59",
     "cumulativeUnrealizedLeaps": "-220001.0",
-    "cumulativeNetDeployed": "2010139.19",
-    "qqqChgPct": "",
-    "spyChgPct": ""
+    "cumulativeNetDeployed": "1758750.29",
+    "qqqChgPct": "-0.3311",
+    "spyChgPct": "-0.0116"
   },
   {
     "date": "2026-10-14",
@@ -3055,7 +3055,7 @@
     "leapRealized": "1078005.59",
     "cumulativeRealizedLeaps": "1078005.59",
     "cumulativeUnrealizedLeaps": "-228465.0",
-    "cumulativeNetDeployed": "1603399.14",
+    "cumulativeNetDeployed": "1352010.24",
     "qqqChgPct": "-1.9662",
     "spyChgPct": "-1.081"
   },
@@ -3067,7 +3067,7 @@
     "leapRealized": "1046916.59",
     "cumulativeRealizedLeaps": "1046916.59",
     "cumulativeUnrealizedLeaps": "-200912.0",
-    "cumulativeNetDeployed": "1104172.91",
+    "cumulativeNetDeployed": "852784.01",
     "qqqChgPct": "-0.1303",
     "spyChgPct": "0.2846"
   },
@@ -3079,7 +3079,7 @@
     "leapRealized": "1046916.59",
     "cumulativeRealizedLeaps": "1046916.59",
     "cumulativeUnrealizedLeaps": "-208969.0",
-    "cumulativeNetDeployed": "707828.34",
+    "cumulativeNetDeployed": "456439.44",
     "qqqChgPct": "-2.5",
     "spyChgPct": "-1.1065"
   },
@@ -3091,7 +3091,7 @@
     "leapRealized": "1046916.59",
     "cumulativeRealizedLeaps": "1046916.59",
     "cumulativeUnrealizedLeaps": "-208969.0",
-    "cumulativeNetDeployed": "707828.34",
+    "cumulativeNetDeployed": "456439.44",
     "qqqChgPct": "",
     "spyChgPct": ""
   }
