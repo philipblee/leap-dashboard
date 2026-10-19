@@ -3109,12 +3109,12 @@
   },
   {
     "date": "2026-10-19",
-    "leapValue": "39962.0",
+    "leapValue": "39060.0",
     "leapBasis": "194686.34",
-    "leapUnrealized": "-154724.34",
+    "leapUnrealized": "-155626.34",
     "leapRealized": "1046916.59",
     "cumulativeRealizedLeaps": "1046916.59",
-    "cumulativeUnrealizedLeaps": "-208969.0",
+    "cumulativeUnrealizedLeaps": "-209339.0",
     "cumulativeNetDeployed": "456439.44",
     "qqqChgPct": "",
     "spyChgPct": ""
