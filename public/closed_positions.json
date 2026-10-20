@@ -13072,6 +13072,22 @@
     "realizedPct": -31.48
   },
   {
+    "id": "WDC_540_2028-01-21_119072621_2026-10-20",
+    "ticker": "WDC",
+    "optionType": "CALL",
+    "strike": "540",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 34840.67,
+    "buyDate": "2026-06-23",
+    "proceeds": 6234.21,
+    "sellDate": "2026-10-20",
+    "realizedPnl": -28606.46,
+    "realizedPct": -82.1
+  },
+  {
     "id": "BE_290_2028-01-21_233267024_2026-07-30",
     "ticker": "BE",
     "optionType": "CALL",

@@ -105,21 +105,6 @@
     "unrealizedPct": -47.98
   },
   {
-    "id": "WDC_540_2028-01-21_119072621_2026-06-23",
-    "ticker": "WDC",
-    "optionType": "CALL",
-    "strike": "540",
-    "expiry": "2028-01-21",
-    "buyDate": "2026-06-23",
-    "accountName": "IRA-Roll $462K",
-    "accountNumber": "119072621",
-    "openContracts": 1.0,
-    "currentValue": 5580.0,
-    "totalCostBasis": 34840.67,
-    "unrealizedPnl": -29260.0,
-    "unrealizedPct": -83.98
-  },
-  {
     "id": "WDC_520_2028-01-21_119072621_2026-06-24",
     "ticker": "WDC",
     "optionType": "CALL",
@@ -129,10 +114,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 1.0,
-    "currentValue": 6055.0,
+    "currentValue": 5795.0,
     "totalCostBasis": 33600.67,
-    "unrealizedPnl": -27545.0,
-    "unrealizedPct": -81.98
+    "unrealizedPnl": -27805.0,
+    "unrealizedPct": -82.75
   },
   {
     "id": "AMKR_65_2028-01-21_119072621_2026-06-26",
@@ -159,10 +144,10 @@
     "accountName": "IRA-Roll $462K",
     "accountNumber": "119072621",
     "openContracts": 3.0,
-    "currentValue": 2370.0,
+    "currentValue": 2337.0,
     "totalCostBasis": 12257.02,
-    "unrealizedPnl": -9885.0,
-    "unrealizedPct": -80.66
+    "unrealizedPnl": -9918.0,
+    "unrealizedPct": -80.93
   },
   {
     "id": "AMKR_65_2028-01-21_233267024_2026-06-26",
@@ -204,10 +189,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 2250.0,
+    "currentValue": 2260.0,
     "totalCostBasis": 11275.66,
-    "unrealizedPnl": -9025.0,
-    "unrealizedPct": -80.04
+    "unrealizedPnl": -9015.0,
+    "unrealizedPct": -79.96
   },
   {
     "id": "KLAC_220_2028-01-21_209435910_2026-07-01",
@@ -234,10 +219,10 @@
     "accountName": "IRA-ROTH $321K",
     "accountNumber": "233267024",
     "openContracts": 1.0,
-    "currentValue": 3050.0,
+    "currentValue": 2730.0,
     "totalCostBasis": 12300.66,
-    "unrealizedPnl": -9250.0,
-    "unrealizedPct": -75.2
+    "unrealizedPnl": -9570.0,
+    "unrealizedPct": -77.8
   },
   {
     "id": "KLAC_216_2028-01-21_119072621_2026-07-01",
