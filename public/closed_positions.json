@@ -8480,6 +8480,38 @@
     "realizedPct": 54.04
   },
   {
+    "id": "VRT_260_2028-01-21_119072621_2026-10-21",
+    "ticker": "VRT",
+    "optionType": "CALL",
+    "strike": "260",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 15030.67,
+    "buyDate": "2026-05-18",
+    "proceeds": 4289.25,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -10741.42,
+    "realizedPct": -71.46
+  },
+  {
+    "id": "VRT_260_2028-01-21_119072621_2026-10-21",
+    "ticker": "VRT",
+    "optionType": "CALL",
+    "strike": "260",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 13669.67,
+    "buyDate": "2026-05-28",
+    "proceeds": 4304.25,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -9365.42,
+    "realizedPct": -68.51
+  },
+  {
     "id": "AMZN_210_2028-01-21_119072621_2026-07-15",
     "ticker": "AMZN",
     "optionType": "CALL",
@@ -11424,6 +11456,22 @@
     "realizedPct": -48.3
   },
   {
+    "id": "ORCL_135_2028-01-21_X69705290_2026-10-21",
+    "ticker": "ORCL",
+    "optionType": "CALL",
+    "strike": "135",
+    "expiry": "2028-01-21",
+    "accountName": "DI Ind. $83.5K",
+    "accountNumber": "X69705290",
+    "contractsSold": 1.0,
+    "costBasis": 7581.67,
+    "buyDate": "2026-06-11",
+    "proceeds": 3303.27,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -4278.4,
+    "realizedPct": -56.42
+  },
+  {
     "id": "SAP_125_2028-01-21_119072621_2026-07-16",
     "ticker": "SAP",
     "optionType": "CALL",
@@ -13088,6 +13136,22 @@
     "realizedPct": -82.1
   },
   {
+    "id": "WDC_520_2028-01-21_119072621_2026-10-21",
+    "ticker": "WDC",
+    "optionType": "CALL",
+    "strike": "520",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-Roll $462K",
+    "accountNumber": "119072621",
+    "contractsSold": 1.0,
+    "costBasis": 33600.67,
+    "buyDate": "2026-06-24",
+    "proceeds": 7428.18,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -26172.49,
+    "realizedPct": -77.89
+  },
+  {
     "id": "BE_290_2028-01-21_233267024_2026-07-30",
     "ticker": "BE",
     "optionType": "CALL",
@@ -13262,6 +13326,22 @@
     "sellDate": "2026-07-01",
     "realizedPnl": 1481.54,
     "realizedPct": 32.12
+  },
+  {
+    "id": "AMKR_65_2028-01-21_233267024_2026-10-21",
+    "ticker": "AMKR",
+    "optionType": "CALL",
+    "strike": "65",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 3990.68,
+    "buyDate": "2026-06-26",
+    "proceeds": 775.32,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -3215.36,
+    "realizedPct": -80.55
   },
   {
     "id": "BE_240_2028-01-21_119072621_2026-07-01",
@@ -13982,6 +14062,38 @@
     "sellDate": "2026-08-04",
     "realizedPnl": -5210.44,
     "realizedPct": -47.58
+  },
+  {
+    "id": "GLW_165_2028-01-21_233267024_2026-10-21",
+    "ticker": "GLW",
+    "optionType": "CALL",
+    "strike": "165",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 11204.66,
+    "buyDate": "2026-07-01",
+    "proceeds": 2699.28,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -8505.38,
+    "realizedPct": -75.9
+  },
+  {
+    "id": "GLW_170_2028-01-21_233267024_2026-10-21",
+    "ticker": "GLW",
+    "optionType": "CALL",
+    "strike": "170",
+    "expiry": "2028-01-21",
+    "accountName": "IRA-ROTH $321K",
+    "accountNumber": "233267024",
+    "contractsSold": 1.0,
+    "costBasis": 11275.66,
+    "buyDate": "2026-07-01",
+    "proceeds": 2567.28,
+    "sellDate": "2026-10-21",
+    "realizedPnl": -8708.38,
+    "realizedPct": -77.22
   },
   {
     "id": "GLW_175_2028-01-21_119072621_2026-08-04",
